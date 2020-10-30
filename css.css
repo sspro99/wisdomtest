@@ -147,72 +147,7 @@
 
 
 
-@media (max-width: 768px){
 
-    .bg{
-        
-        width: 768px;
-        height: auto;
-    }
-    .outer{
-        padding: 50px 12%;
-        font-size: 10px;
-        display: block;
-    }
- 
-     .inner1 li{
-        padding: 2px 5px;
-        font-size: 10px;
-        width: 100%;
-       
-        
-     }
-     
-
-     .inner2 img{
-        width: 75%;
-        
-       
-    }
-    .bgimg{
-        /*background-color: black;
-        text-decoration: none;
-        color: white; --*/
-        background-color: black;
-       
-    }
-    .item{
-        width: 100%;
-        height: auto;
-    }
-
-    .platinum li{
-        font-size: 25px;
-        
-        
-    }
-    .platinum h2{
-        font-size: 30px;
-    }
-
-    
- 
-     
- .btn{
-     background: none;
-     color: white;
-     padding: 4px;
-     border-color: white;
-     border-radius: 10px;
-     font-size: 14px;
- }
- 
- .footer{
-     width: 100%;
-     
- }
- 
- }
 
 
 
@@ -305,6 +240,77 @@
         
     }
 }
+
+
+@media (max-width: 768px){
+
+    .bg{
+        
+        width: 100%;
+        height: auto;
+    }
+    .outer{
+        padding: 50px 12%;
+        font-size: 10px;
+        display: block;
+    }
+ 
+     .inner1 li{
+        padding: 2%;
+        font-size: 10px;
+        width: 100%;
+       
+        
+     }
+     
+
+     .inner2 img{
+        height: 200px;
+        width: 200px;
+        align-items: center;
+        
+       
+    }
+    .bgimg{
+        /*background-color: black;
+        text-decoration: none;
+        color: white; --*/
+        background-color: black;
+       
+    }
+    .item{
+        width: 100%;
+        height: auto;
+    }
+
+    .platinum li{
+        font-size: 25px;
+        
+        
+    }
+    .platinum h2{
+        font-size: 30px;
+    }
+
+    
+ 
+     
+ .btn{
+     background: none;
+     color: white;
+     padding: 4px;
+     border-color: white;
+     border-radius: 10px;
+     font-size: 14px;
+ }
+ 
+ .footer{
+     width: 100%;
+     
+ }
+ 
+ }
+ 
  
  
  
